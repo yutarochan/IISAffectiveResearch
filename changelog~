@@ -7,4 +7,4 @@ CHANGELOG
 9/17/2015: 
 * Appended changelog file.
 * Appended CSMProcess folder with csmparser.m.
-* Appended KinectSkeltrack folder with corresponding source files (libraries not included, see internal README).
+* Appended KinectSkeltrack
