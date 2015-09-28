@@ -1,4 +1,8 @@
 CHANGELOG
+9/21/2015
+* Add to do lists
+* Reorganize folder
+* Add ReadCSM function to read raw data
 
 9/16/2015: 
 * Initialized Github Repository for codebase.
