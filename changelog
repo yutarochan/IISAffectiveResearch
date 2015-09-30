@@ -1,14 +1,19 @@
 CHANGELOG
+
+9/28/2015:
+* Appended SkelPlot
+* TODO: Need partial documentation to document joint vectors implemented in visualizations.
+
 9/21/2015
 * Add to do lists
 * Reorganize folder
 * Add ReadCSM function to read raw data
 
-9/16/2015: 
-* Initialized Github Repository for codebase.
-* Appended simple readme file.
-
-9/17/2015: 
+9/17/2015:
 * Appended changelog file.
 * Appended CSMProcess folder with csmparser.m.
 * Appended KinectSkeltrack folder with corresponding source files (libraries not included, see internal README).
+
+9/16/2015:
+* Initialized Github Repository for codebase.
+* Appended simple readme file.

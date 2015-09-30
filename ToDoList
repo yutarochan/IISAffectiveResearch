@@ -1,4 +1,7 @@
 To do list:
+* Cover papers suggested by review for reference.
+* Establish concrete goals for execution.
+
 * Collect 2D emotion labeled posture by projecting the 3D dataset to different plane
 * Find a way to detect human beings in vedio
 * Substract background and obtain human body images

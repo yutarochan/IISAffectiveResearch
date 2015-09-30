@@ -41,7 +41,6 @@ NumFrames = LastFrame - FirstFrame + 1;
 %may index specific joints here..
 %End
 
-
 % Read the XYZ position data
 % Attention!! The first one is index, NOT Position data
 Total = NumMarkers*3+1; 
