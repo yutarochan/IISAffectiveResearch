@@ -1,5 +1,8 @@
 [CSM Modeler]
 * Figure out bone and joint parameters from bone array and data analysis.
+    * Extrapolate coordiante data from coordinates.
+    * Convert that data to PMD file formats.
+    * Analyze data specificaiton for converting CSM to PMD file formats. 
 * Map the CSM data to the analyzed joints.
 * Find an appropriate model for human contour tracing.
 * Research GLUT function specs for:
