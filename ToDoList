@@ -1,11 +1,15 @@
 To do list:
-* Cover papers suggested by review for reference.
-* Establish concrete goals for execution.
+* Cover papers suggested by review for reference. [COMPLETE]
+* Establish concrete goals for execution. [COMPLETE]
 
 * Collect 2D emotion labeled posture by projecting the 3D dataset to different plane
 * Find a way to detect human beings in vedio
 * Substract background and obtain human body images
 * Compare the images with labeled one and find similar posture in the vedio
+
+<ALTERNATIVE PROCESS>
+* Utilize Kinect to extract body posture dataset.
+* Figure out method to map body posture from Kinect IR camera.
 
 Next step:
 * Compare the results with subtitles/context
